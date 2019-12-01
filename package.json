@@ -1,0 +1,11 @@
+{
+  "name": "npm-run-issue",
+  "version": "1.0.0",
+  "description": "Minimal reproduction of npm run issue",
+  "main": "index.js",
+  "scripts": {
+    "echo": "echo 'run' works!"
+  },
+  "author": "",
+  "license": "ISC"
+}
